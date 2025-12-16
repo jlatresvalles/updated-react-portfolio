@@ -10,7 +10,7 @@ export const Home = () => {
                 </h1>
 
                 <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                    I am currently working as a Digital Transformation Intern at the New Jersey Department of Community Affairs. I graduated with a Bachelor's degree in both Computer Science and Psychology degree at Rutgers-New Brunswick and have a solid foundation in software development, data structure, and web development.  I also an excellent understanding in psychoogical theories, research methods, and data collection. As a Digital Transformation Intern, I have built and launched multiple automated workflows in SimpliGov, streamlining data intake and reducing manual processing for the public, employees, and stakeholders.
+                    I am currently working as a Digital Transformation Intern at the New Jersey Department of Community Affairs. My background revolves around Computer Science, Psychology, and applied research, giving me a strong foundation in both technical problem-solving and human-centered design. I enjoy working directly with program leads to translate complex requirements into scalable digital solutions that improve efficiency, data quality, and decision-making.
                 </p>
 
                 <div className="flex justify-center space-x-4">
